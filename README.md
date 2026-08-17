@@ -30,7 +30,7 @@ Cleaned, shaped, and prepared the raw data for analysis by handling blanks, chan
 
 ### Page 1: High-Level Market View
 
-![Dashboard Page 1](images/page_1.png)
+![Dashboard Page 1](https://github.com/Fahmeedkhan22/Data_Jobs_Dashboard/blob/6c71803d9c97d17cd47f68077464029693803873/Images/1%20page_1.png)
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
@@ -38,7 +38,7 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 💡
 
-![Dashboard Page 2](images/page_2.png)
+![Dashboard Page 2](https://github.com/Fahmeedkhan22/Data_Jobs_Dashboard/blob/6c71803d9c97d17cd47f68077464029693803873/Images/2%20page_2.png)
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
